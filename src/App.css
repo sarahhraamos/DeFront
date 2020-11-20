@@ -1,0 +1,46 @@
+.card {
+  margin-top: 30px;
+}
+
+#carouselExampleCaptions {
+  margin-top: 5px;
+
+}
+
+.navbar a {
+  font-family: 'Fredoka One', cursive;
+
+}
+
+.carousel-item h1 {
+  margin-bottom: 120px;
+  font-size: 100px;
+  font-family: 'Fredoka One', cursive;
+
+}
+
+.carousel-item h1:hover {
+  color: #ADD8E6;
+}
+
+.carousel-item h2:hover {
+  font-size: 40px;
+}
+
+.carousel-item p{
+  font-size: 18px;
+}
+
+.container{
+  margin-top: 100px;
+}
+
+.form-row {
+  margin-top: 20px;
+}
+
+#texto {
+  margin-top: 70px;
+  font-family: 'Poppins', sans-serif;
+}
+
