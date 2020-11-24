@@ -11,7 +11,7 @@ import Cadastro from './pages/cadastro.js'
 const Routes = () => (
     <BrowserRouter>
         <Switch>
-            <Route path="/home" exact component={Main} />
+            <Route path="/" exact component={Main} />
             <Route path="/framework" component={Framework} />
             <Route path="/libs"  component={Libs} /> 
             <Route path="/cadastro"  component={Cadastro} />
